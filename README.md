@@ -25,3 +25,7 @@ More details can be found in backend/readme.md file
 
 More details can be doun in frontend/readme.md file.
 
+
+### Output / Screenshot
+
+available in output folder
